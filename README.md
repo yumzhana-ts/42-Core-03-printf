@@ -5,4 +5,5 @@ The more challenging method, which involved handling alignments using structs, w
 
 In the end, I opted for a simpler yet clear and leak-free solution.
 
-Theory: use of variadic functions 
+### Theory:
+ use of variadic functions 
